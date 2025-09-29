@@ -1,6 +1,6 @@
 */ppt_figures/
 **/.Rhistory
-**/*.aup3
+**/*.aup3*
 **/*.wav
 **/*.pptx
 **/*.Rmd
@@ -11,4 +11,5 @@
 **/manim/.vscode/
 **/manim/__pycache__/
 **/manim/*.bat
-**/manim/*test*
+**/manim/test*
+.vscode
